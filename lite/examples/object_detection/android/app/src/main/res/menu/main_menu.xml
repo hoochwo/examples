@@ -1,0 +1,11 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <!-- "Maps", should appear as action button if possible -->
+    <item
+        android:id="@+id/action_maps"
+        android:icon="@drawable/ic_maps"
+        android:title="@string/title_activity_map"
+        app:showAsAction="ifRoom" />
+
+</menu>
