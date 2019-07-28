@@ -2,3 +2,4 @@
 **/.DS_Store
 **/.idea
 **/.ipynb_checkpoints
+lite/examples/object_detection/android/app/src/main/assets/detect.tflite
